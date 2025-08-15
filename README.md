@@ -1,2 +1,2 @@
 # SupervisedMLProjects
-This repository will contain projects I've done in Python and Jupyter that involce Supervised Machine Learning algorithms.
+This repository will contains a simple classification project attempted using a gender classification dataset.
